@@ -33,7 +33,7 @@ $(function() {
    }
      
  // Call the function to update hour classes
- updateHourClasses
+ updateHourClasses();
 
 
    // Get any user input saved in localStorage and set the textarea values
