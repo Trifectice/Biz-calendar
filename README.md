@@ -1,8 +1,8 @@
-# <Biz-Calender>
+# Biz Calender
 
 ## Description
 
-This was an amazing prodject that showed how to utilize jquery functions, and day.js to set time and dates. This tool will save data to the local storage for specific hours and update the html classes based on what the hour is and if the other hours re past, present, and future.
+This was an amazing prodject that showed how to utilize jquery functions, and day.js to set time and dates. This tool will save data to the local storage for specific hours and update the html classes based on what the hour is and if the other hours re past, present, and future. To visit the deployed app click [Here!](https://trifectice.github.io/Biz-calendar/)
 
 
 ## Usage
